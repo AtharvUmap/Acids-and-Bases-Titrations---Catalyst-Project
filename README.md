@@ -1,4 +1,4 @@
-# Acids-and-Bases-Titrations-Simulator---Catalyst-Project
+# Acids-and-Bases-Titrations-Simulator
 
 Developed and designed in Unity, this mobile simulator leverages 3D game technologies to create a visual interactive tool for students to learn globally.
 
